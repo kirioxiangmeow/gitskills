@@ -5,8 +5,4 @@ ESC :q //退出编辑
 ESC :wq //退出并保存
 cat <文件名>  //查看文件内容
 <<<<<<< HEAD
-Creating a new branch is quick and simple.
-=======
-
 Creating a new branch is quick AND simple.
->>>>>>> feature1
